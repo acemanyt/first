@@ -12,3 +12,15 @@ h2 {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.menu {
+    display: flex;
+    gap: 50px;
+    list-style: none;
+}
+
+.menu a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
